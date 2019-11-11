@@ -1,6 +1,10 @@
 # Hackbar Java Version
 
 Written in Netbeans and you can download project file in release tab.
+
+## How to use 
+Just download multiweb.jar file.  
+
 ## Encoding Features 
 
 * url encode, decode
