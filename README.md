@@ -1,5 +1,6 @@
 # Hackbar Java Version
 
+Written in Netbeans and you can download project file in release tab.
 ## Encoding Features 
 
 * url encode, decode
@@ -96,4 +97,3 @@
 
 ![GitHub Logo](/images/payload.png)
 
-If you want to view source code, download in release tab then open with netbean. 
